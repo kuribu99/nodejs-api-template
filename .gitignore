@@ -1,0 +1,11 @@
+node_modules/
+public/*.html
+public/*.js
+public/*.css
+public/*.txt
+public/assets/i18n/
+public/*.ico
+logs/
+temp/
+uploads/
+.idea/
